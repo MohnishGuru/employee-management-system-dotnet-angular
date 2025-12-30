@@ -1,0 +1,6 @@
+@employeeMngmentSysytem_full_stack__HostAddress = http://localhost:5289
+
+GET {{employeeMngmentSysytem_full_stack__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
